@@ -1,0 +1,45 @@
+L
+l
+f
+1
+F
+1000
+d
+200
+d
+1
+l
+A
+Mike
+Tyson
+PUNCHING 999
+ENG 101
+BIT 143
+
+a
+Jon
+JonJon
+ENG 101
+MATH 101
+
+l
+m
+230
+M
+23
+John
+d
+BIT 115
+ART 120
+l
+d
+20
+d
+21
+d
+22
+l
+d
+23
+l
+q
